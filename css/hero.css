@@ -1,0 +1,64 @@
+body{
+	margin: 0; font-family: 'Bangers', cursive;
+}
+
+header{
+background-color: #E6E6FA;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+
+header h1{
+	color: #483D8B;
+}
+header img{
+	border-radius: 150px;
+    width: 300px;
+    border: solid 15px;
+}
+
+
+main{
+	max-height: 800px;
+	background-color: #9370DB;
+	margin: 0 auto;
+	padding: 0 10px 10px 100px;
+
+
+}
+
+main img{
+	border-image-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: #4B0082;
+}
+
+a{
+	color:#4B0082;
+
+}
+
+a:hover{
+	background-color:white;
+}
+
+footer{
+	background-color: #4B0082;
+text-align: center;
+padding: 50px;
+
+}
+
+footer p{
+	margin: 0;
+}
+
+p{
+	font-size: 20px;
+	color: #E6E6FA;
+
+}
